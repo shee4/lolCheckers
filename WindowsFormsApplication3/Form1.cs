@@ -16,6 +16,7 @@ namespace WindowsFormsApplication3
         {
             InitializeComponent();
         }
+<<<<<<< HEAD
         private Panel[,] _chessBoardPanels;
         private void Form1_Load(object sender, EventArgs e)
         {
@@ -62,5 +63,7 @@ namespace WindowsFormsApplication3
             //e.Graphics.DrawString()
         }
 
+=======
+>>>>>>> 7c7eff38e02e32b22bbc9ebb20e20f2de68e6aed
     }
 }

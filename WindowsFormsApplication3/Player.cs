@@ -19,7 +19,11 @@ namespace WindowsFormsApplication3
         }
         public void Move(int destinationX, int destinationY)
         {
+<<<<<<< HEAD
           //  Board.Field[destinationX, destinationY] = Color;
+=======
+            Board.Field[destinationX, destinationY] = Color;
+>>>>>>> 7c7eff38e02e32b22bbc9ebb20e20f2de68e6aed
         }
     }
 }
